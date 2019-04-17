@@ -38,7 +38,7 @@ sections:
   path: _data/information.yml
   label: Contact Information
 upload_dir: ''
-public_path: ''
+public_path: https://eu-west-2.amazonaws.com/ffern-forestry
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
